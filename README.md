@@ -1,4 +1,4 @@
-# mario
+# Winbox Mario
 Miktotik script to play the super mario tune
 
 ```
